@@ -18,4 +18,4 @@ The objective of this module was to create a 5 day weathr forecast using the ope
 - Bootstrap
 - Open Weather API
 
-![Screenshot](https://github.com/JonCerruti/5-Day--Weather-Forecast/blob/main/assets/images/forecast-webpage.png)
+![Screenshot](./assets/images/Weather-app.png)
